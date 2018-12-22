@@ -1,5 +1,5 @@
 # Adelaode Blockchain Incorporated - Minutes 18/11/2018
-#### Attendees: Paul Pounendis, Sarah Jamieson, Ruslan Mugalimov, Barbara Vrettos, Ivan Seares Nunes, David Ng 
+#### Attendees: Paul Pounendis, Sarah Jamieson, Ruslan Mugalimov, Barbara Vrettos, Ivan Seares Nunes, Daniel Ng 
 ### First Board Meeting - No actions from previous meetings
 ## Meeting Time 
 -	Monthly
